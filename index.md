@@ -12,57 +12,6 @@ Source singing reference is the actural singing from source speaker, but the fil
 
 
 
-<audio id="audio" controls="" preload="none">
-  <source id="wav" src="actulsingingfromMPUR.wav">
-</audio>
-
-
-### 01 Edelweiss
-
--------------------------------
-
-**Source Speaking**:
-
-<audio id="audio" controls="" preload="none">
-  <source id="wav" src="original/01ADIZspeaking.wav">
-</audio>
-
-**Target Singing**:
-
-<audio id="audio" controls="" preload="none">
-  <source id="wav" src="original/01SAMFsinging.wav">
-</audio>
-
-**Source Singing Reference**:
-
-<audio id="audio" controls="" preload="none">
-  <source id="wav" src="original/01ADIZsinging.wav">
-</audio>
-
-
-
-
-
-**Conversion Result**:
-
-- 13mfcc
-
-  <audio id="audio" controls="" preload="none">
-    <source id="wav" src="01_ADIZtoSAMF_13mfcc_10ms.wav">
-  </audio>
-
-- 39mfcc
-
-  <audio id="audio" controls="" preload="none">
-    <source id="wav" src="01_ADIZtoSAMF_39mfcc_10ms.wav">
-  </audio>
-
-- Dual Alignment
-
-  <audio id="audio" controls="" preload="none">
-    <source id="wav" src="01_ADIZtoSAMF_10ms_dual.wav">
-  </audio>
-
 
 
 ### 02 Do Re Mi
@@ -111,7 +60,73 @@ Source singing reference is the actural singing from source speaker, but the fil
     <source id="wav" src="02_MPURtoZHIY_10ms_dual.wav">
   </audio>
 
+- Using mfcc+linear prediction Cepstral analysis
 
+  <audio id="audio" controls="" preload="none">
+    <source id="wav" src="convert/02_MPURtoZHIY_LTS2.wav">
+  </audio>
+
+- Using MFCC + World spectrum Cepstral analysis
+
+  <audio id="audio" controls="" preload="none">
+    <source id="wav" src="convert/02_MPURtoZHIY_wcs_10ms.wav">
+  </audio>
+
+- Using MFCC + World spectrum Cepstral analysis + linear prediction Cepstral analysis
+
+  <audio id="audio" controls="" preload="none">
+    <source id="wav" src="convert/02_MPURtoZHIY_ttt_nonc2_10ms.wav">
+  </audio>
+
+
+
+
+
+
+
+### 01 Edelweiss
+
+-------------------------------
+
+**Source Speaking**:
+
+<audio id="audio" controls="" preload="none">
+  <source id="wav" src="original/01ADIZspeaking.wav">
+</audio>
+
+**Target Singing**:
+
+<audio id="audio" controls="" preload="none">
+  <source id="wav" src="original/01SAMFsinging.wav">
+</audio>
+
+**Source Singing Reference**:
+
+<audio id="audio" controls="" preload="none">
+  <source id="wav" src="original/01ADIZsinging.wav">
+</audio>
+
+
+
+**Conversion Result**:
+
+- 13mfcc
+
+  <audio id="audio" controls="" preload="none">
+    <source id="wav" src="01_ADIZtoSAMF_13mfcc_10ms.wav">
+  </audio>
+
+- 39mfcc
+
+  <audio id="audio" controls="" preload="none">
+    <source id="wav" src="01_ADIZtoSAMF_39mfcc_10ms.wav">
+  </audio>
+
+- Dual Alignment
+
+  <audio id="audio" controls="" preload="none">
+    <source id="wav" src="01_ADIZtoSAMF_10ms_dual.wav">
+  </audio>
 
 
 
