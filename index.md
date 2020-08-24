@@ -1,17 +1,8 @@
 ## Guangzheng Li 
 
-## EDUCATION
+## Demo of Speaing-to-Singing Conversion
 
-Southern University of Science and TechnologyShenzhen, China
-Bachelor Degree in Information Engineering
-2015.09 - 2019.06
-Department of Electrical and Electronic Engineering
 
-The University of Sheffield
-Sheffield, England
-MSc in Computer Science with Speech and Language Processing
-2019.9 - Present
-Department of Computer Science
 
 
 
@@ -20,3 +11,4 @@ Department of Computer Science
 <audio id="audio" controls="" preload="none">
   <source id="wav" src="actulsingingfromMPUR.wav">
 </audio>
+
