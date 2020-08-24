@@ -24,10 +24,10 @@ Source singing reference is the actural singing from source speaker, but the fil
 |     02      | 17.42          | 2.88 | *                    |
 |     04      | 24.01          | 1.04 | *                    |
 |     07      | 15.32          | 1.05 | *                    |
-|     10      |                |      | *                    |
+|     10      | 15.33          | 1.11 | *                    |
 |     13      | 15.30          | 1.15 | *                    |
 |     14      | 17.41          | 1.04 | *                    |
-|   Overall   |                |      | *                    |
+|   Overall   | 17.88          | 1.33 | *                    |
 
 
 
@@ -39,10 +39,10 @@ Source singing reference is the actural singing from source speaker, but the fil
 |     02      | 18.56          | 1.49 | *                    |
 |     04      | 23.93          | 1.19 | *                    |
 |     07      | 15.71          | 1.04 | *                    |
-|     10      |                |      | *                    |
+|     10      | 17.61          | 1.08 | *                    |
 |     13      | 23.05          | 2.14 | *                    |
 |     14      | 17.36          | 1.04 | *                    |
-|   Overall   |                |      | *                    |
+|   Overall   | 19.51          | 1.29 | *                    |
 
 
 
@@ -58,10 +58,10 @@ Source singing reference is the actural singing from source speaker, but the fil
 |     02      | 18.80          | 1.49 | *                    |
 |     04      | 22.53          | 1.19 | *                    |
 |     07      | 16.07          | 1.04 | *                    |
-|     10      |                |      | *                    |
+|     10      | 15.83          | 1.09 | *                    |
 |     13      | 15.97          | 2.14 | *                    |
 |     14      | 17.96          | 1.04 | *                    |
-|   Overall   |                |      | *                    |
+|   Overall   | 18.25          | 1.29 | *                    |
 
 
 
