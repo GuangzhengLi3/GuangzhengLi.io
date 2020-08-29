@@ -164,28 +164,6 @@ Your are asked to rate the quality and naturalness ranging from 1 (bad) to 5 (ex
 
     
 
-1. 
-
-- [ ] 5
-
-- [ ] 4
-
-- [ ] 3
-
-- [ ] 2
-
-- [ ] 1
-
-  
-
-- [ ] 5
-- [ ] 4
-- [ ] 3
-- [ ] 2
-- [ ] 1
-
-
-
 
 
 8. What is your opinion about the Demonstration?
