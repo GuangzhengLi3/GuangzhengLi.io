@@ -443,3 +443,25 @@ Source singing reference is the actural singing from source speaker, but the fil
 
   
 
+
+
+### Test
+
+Original speaking
+
+<audio id="audio" controls="" preload="none">
+  <source id="wav" src="demo/02_original_speaking.wav">
+</audio>
+
+trasformed singing
+
+<audio id="audio" controls="" preload="none">
+  <source id="wav" src="demo/02_MPURtoZHIY_10ms_13mfcc.wav">
+</audio>
+
+Original's singing 
+
+<audio id="audio" controls="" preload="none">
+  <source id="wav" src="demo/02_original_singing.wav">
+</audio>
+
